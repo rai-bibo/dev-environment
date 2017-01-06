@@ -12,4 +12,4 @@ installation procedures after mysql as far as i can remember:
  - see typescript-2 for validating installation
 
 to access from host:
-http://localhost:8090/index.php
+http://localhost:8090/
